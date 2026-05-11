@@ -1,4 +1,7 @@
 // #1 00:00:00 JavaScript tutorial for beginners 🌐
+
+
+
 // #2 00:12:32 Variables 📦
 // #3 00:25:20 Arithmetic operators ➕
 // #4 00:33:47 Accept user input 💬
