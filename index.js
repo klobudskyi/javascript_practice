@@ -1,6 +1,22 @@
 // #1 00:00:00 JavaScript tutorial for beginners 🌐
 
+// console.log("Hello!")
+// console.log("I like pizza!")
 
+// window.alert("This is an alert!")
+// window.alert("I like pizza!")
+
+// document.getElementById("myH1").textContent = "Hello!";
+// document.getElementById("myP").textContent = "I like pizza!";
+
+// This is a comment
+
+/* 
+    This
+    is
+    a
+    comment
+*/
 
 // #2 00:12:32 Variables 📦
 // #3 00:25:20 Arithmetic operators ➕
